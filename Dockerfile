@@ -1,6 +1,6 @@
 FROM spark-py:spark-docker
 
-MAINTAINER HUADEYU huadeyu@kingsoft.com
+MAINTAINER HUADEYU deyuhua@gmail.com
 WORKDIR /mnt
 
 COPY . /mnt
